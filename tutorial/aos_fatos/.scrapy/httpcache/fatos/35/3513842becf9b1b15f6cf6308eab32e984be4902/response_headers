@@ -1,0 +1,7 @@
+Server: nginx/1.6.2
+Date: Tue, 12 Feb 2019 17:29:13 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Cookie
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: csrftoken=iUKwptkkmUh4kSfPKVvQsf01xudsBMNjL1siVhcSpjISuMHBgAtzuyncOIfL3BQ6; expires=Tue, 11-Feb-2020 17:29:13 GMT; Max-Age=31449600; Path=/
+Content-Encoding: gzip
